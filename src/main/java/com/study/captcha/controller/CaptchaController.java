@@ -1,4 +1,4 @@
-package com.study.captcha;
+package com.study.captcha.controller;
 
 import com.study.captcha.utils.CaptchaUtils;
 import org.springframework.stereotype.Controller;
